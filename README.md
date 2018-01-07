@@ -7,7 +7,7 @@ This project uses natural language processing techniques to analyze text posting
 #### Techniques/Models used:
 - Natural Language Processing (NLP)
 - Stopwords, PorterStemmer, TextBlob, CountVectorizer
-- RandomForestClassifier, KNeighborsClassifier, OneVsRestClassifier, GridSearchCV
+- RandomForestClassifier, KNeighborsClassifier, OneVsRestClassifier, GridSearchCV, Tukey range test, t-test
 - numpy, pandas, matplotlib, seaborn
 
 #### Background:
