@@ -13,7 +13,7 @@ This project uses natural language processing techniques to analyze text posting
 #### Background:
 Personality refers to individual differences in characteristic patterns of thinking, feeling and behaving. Personality typologies classify different types of individuals to reveal and enhance the understanding of their behaviors.
 
-The Myers-Briggs Type Indicator (MBTI) is a psychological assessment tool to classify people into one of 16 different personality types. The classification system consists of a four-letter code based on four axes, where each letter in the code refers to the predominant trait in each axis. The four axes are:
+The *_Myers-Briggs Type Indicator (MBTI)_* is a psychological assessment tool to classify people into one of 16 different personality types. The classification system consists of a four-letter code based on four axes, where each letter in the code refers to the predominant trait in each axis. The four axes are:
 
 - *_Introversion (I) – Extroversion (E)_*: Describes the different attitudes people use to direct their energy (i.e. the "inner world" vs. one's "outer world")
 - *_Intuition (N) – Sensing (S)_*: Describes people's method of processing informaton (i.e. paying more attention to the patterns and possibilities seen in the information received vs. information that comes in through the five senses)
